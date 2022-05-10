@@ -1,0 +1,22 @@
+[02-Jul-2021 06:23:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/includes/connection.php on line 10
+[02-Jul-2021 06:23:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/loginscript.php on line 12
+[02-Jul-2021 06:24:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/includes/connection.php on line 10
+[02-Jul-2021 06:24:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/loginscript.php on line 12
+[07-Jul-2021 07:23:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/includes/connection.php on line 10
+[07-Jul-2021 07:23:37 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/loginscript.php on line 12
+[07-Jul-2021 07:23:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/includes/connection.php on line 10
+[07-Jul-2021 07:23:39 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/loginscript.php on line 12
+[07-Jul-2021 07:26:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/includes/connection.php on line 10
+[07-Jul-2021 07:26:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/loginscript.php on line 12
+[08-Jul-2021 06:27:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:27:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:28:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:28:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:29:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:30:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10
+[08-Jul-2021 06:30:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xbbue9x/apps.ibbu.edu.ng/v2.0.0/admin/php/SubmitTurnitinResult.php on line 10

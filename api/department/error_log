@@ -1,0 +1,5 @@
+[30-Aug-2020 09:13:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ibbuapps/public_html/attendance/models/Departments.php:21
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/api/department/getAllDepartments.php(17): Departments->getAllDepartments()
+#1 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Departments.php on line 21

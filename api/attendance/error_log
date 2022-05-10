@@ -1,0 +1,82 @@
+[30-Aug-2020 22:04:21 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ibbuapps/public_html/attendance/models/Attendance.php:78
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(78): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(29): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 78
+[30-Aug-2020 22:05:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/ibbuapps/public_html/attendance/models/Attendance.php:78
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(78): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(29): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 78
+[05-Sep-2020 23:58:34 Africa/Lagos] PHP Fatal error:  Cannot redeclare Attendance::SyncAttendance() in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 86
+[06-Sep-2020 00:00:27 Africa/Lagos] PHP Fatal error:  Cannot redeclare Attendance::SyncAttendance() in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 86
+[06-Sep-2020 00:00:38 Africa/Lagos] PHP Fatal error:  Cannot redeclare Attendance::SyncAttendance() in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 86
+[06-Sep-2020 00:01:09 Africa/Lagos] PHP Fatal error:  Cannot redeclare Attendance::SyncAttendance() in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 86
+[06-Sep-2020 12:21:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 12:36:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 12:38:47 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 12:38:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 12:40:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 12:41:22 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function json_encod() in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php on line 40
+[06-Sep-2020 13:11:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ibbuapps_attendance.staff_attendance_09_' doesn't exist in /home/ibbuapps/public_html/attendance/models/Attendance.php:98
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(98): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(37): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 98
+[11-Sep-2020 04:32:22 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1379' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
+[11-Sep-2020 04:32:29 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1379' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
+[11-Sep-2020 04:32:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1379' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
+[11-Sep-2020 04:32:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1379' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
+[11-Sep-2020 04:41:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1378' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
+[11-Sep-2020 04:41:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE fileno='1378' AND att_day='11'' at line 5 in /home/ibbuapps/public_html/attendance/models/Attendance.php:101
+Stack trace:
+#0 /home/ibbuapps/public_html/attendance/models/Attendance.php(101): PDOStatement->execute()
+#1 /home/ibbuapps/public_html/attendance/api/attendance/SyncAttendance.php(39): Attendance->SyncAttendance()
+#2 {main}
+  thrown in /home/ibbuapps/public_html/attendance/models/Attendance.php on line 101
